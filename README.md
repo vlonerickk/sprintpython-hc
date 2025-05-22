@@ -3,7 +3,7 @@
 
 # 🏥 Sistema de Gerenciamento Médico
 
-✨ Um sistema em Python para gerenciar pacientes, médicos, consultas e laudos médicos em clínica/hospital.
+✨ Um sistema em Python para gerenciar pacientes, médicos, consultas e laudos médicos no Hospital das Clínicas
 
 ## 🚀 Funcionalidades
 
